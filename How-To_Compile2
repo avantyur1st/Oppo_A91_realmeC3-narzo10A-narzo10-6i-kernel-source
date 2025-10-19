@@ -1,3 +1,5 @@
+NOT WORKING
+
 1.install toolchain and make tools for build kernel
 
 (1)mkdir -p ~/workspace/source; cd ~/workspace/source;
